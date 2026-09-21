@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15",
+    "price": 65000,
+    "category": "Mobile",
+    "brand": "Apple"
+  },
+  {
+    "id": 2,
+    "name": "iPhone 15 Pro",
+    "price": 125000,
+    "category": "Mobile",
+    "brand": "Apple"
+  },
+  {
+    "id": 3,
+    "name": "iPhone 15 Pro Max",
+    "price": 145000,
+    "category": "Mobile",
+    "brand": "Apple"
+  },
+  {
+    "id": 4,
+    "name": "Samsung Galaxy S24",
+    "price": 74999,
+    "category": "Mobile",
+    "brand": "Samsung"
+  },
+  {
+    "id": 5,
+    "name": "Samsung Galaxy S24 Ultra",
+    "price": 129999,
+    "category": "Mobile",
+    "brand": "Samsung"
+  },
+  {
+    "id": 6,
+    "name": "Google Pixel 9",
+    "price": 79999,
+    "category": "Mobile",
+    "brand": "Google"
+  },
+  {
+    "id": 7,
+    "name": "OnePlus 13",
+    "price": 69999,
+    "category": "Mobile",
+    "brand": "OnePlus"
+  },
+  {
+    "id": 8,
+    "name": "Nothing Phone 2",
+    "price": 44999,
+    "category": "Mobile",
+    "brand": "Nothing"
+  },
+  {
+    "id": 9,
+    "name": "MacBook Air M3",
+    "price": 99999,
+    "category": "Laptop",
+    "brand": "Apple"
+  },
+  {
+    "id": 10,
+    "name": "MacBook Pro M3",
+    "price": 169999,
+    "category": "Laptop",
+    "brand": "Apple"
+  },
+  {
+    "id": 11,
+    "name": "Dell Inspiron 15",
+    "price": 57999,
+    "category": "Laptop",
+    "brand": "Dell"
+  },
+  {
+    "id": 12,
+    "name": "HP Pavilion 15",
+    "price": 62999,
+    "category": "Laptop",
+    "brand": "HP"
+  },
+  {
+    "id": 13,
+    "name": "HP Victus Gaming",
+    "price": 84999,
+    "category": "Laptop",
+    "brand": "HP"
+  },
+  {
+    "id": 14,
+    "name": "Lenovo IdeaPad Slim 5",
+    "price": 64999,
+    "category": "Laptop",
+    "brand": "Lenovo"
+  },
+  {
+    "id": 15,
+    "name": "Lenovo Legion 5",
+    "price": 109999,
+    "category": "Laptop",
+    "brand": "Lenovo"
+  },
+  {
+    "id": 16,
+    "name": "Asus VivoBook 15",
+    "price": 55999,
+    "category": "Laptop",
+    "brand": "Asus"
+  },
+  {
+    "id": 17,
+    "name": "Asus ROG Strix G16",
+    "price": 129999,
+    "category": "Laptop",
+    "brand": "Asus"
+  },
+  {
+    "id": 18,
+    "name": "Acer Aspire 5",
+    "price": 49999,
+    "category": "Laptop",
+    "brand": "Acer"
+  },
+  {
+    "id": 19,
+    "name": "Sony WH-1000XM5",
+    "price": 29999,
+    "category": "Headphones",
+    "brand": "Sony"
+  },
+  {
+    "id": 20,
+    "name": "Sony WH-CH720N",
+    "price": 9999,
+    "category": "Headphones",
+    "brand": "Sony"
+  },
+  {
+    "id": 21,
+    "name": "Apple AirPods Pro",
+    "price": 24999,
+    "category": "Earbuds",
+    "brand": "Apple"
+  },
+  {
+    "id": 22,
+    "name": "Apple AirPods 4",
+    "price": 12999,
+    "category": "Earbuds",
+    "brand": "Apple"
+  },
+  {
+    "id": 23,
+    "name": "Samsung Galaxy Buds 3",
+    "price": 14999,
+    "category": "Earbuds",
+    "brand": "Samsung"
+  },
+  {
+    "id": 24,
+    "name": "OnePlus Buds Pro 3",
+    "price": 11999,
+    "category": "Earbuds",
+    "brand": "OnePlus"
+  },
+  {
+    "id": 25,
+    "name": "Boat Airdopes 141",
+    "price": 1499,
+    "category": "Earbuds",
+    "brand": "Boat"
+  },
+  {
+    "id": 26,
+    "name": "JBL Tune 770NC",
+    "price": 6999,
+    "category": "Headphones",
+    "brand": "JBL"
+  },
+  {
+    "id": 27,
+    "name": "JBL Flip 6",
+    "price": 9999,
+    "category": "Speaker",
+    "brand": "JBL"
+  },
+  {
+    "id": 28,
+    "name": "Sony SRS-XB100",
+    "price": 4999,
+    "category": "Speaker",
+    "brand": "Sony"
+  },
+  {
+    "id": 29,
+    "name": "Apple Watch Series 10",
+    "price": 46999,
+    "category": "Smartwatch",
+    "brand": "Apple"
+  },
+  {
+    "id": 30,
+    "name": "Samsung Galaxy Watch 7",
+    "price": 32999,
+    "category": "Smartwatch",
+    "brand": "Samsung"
+  },
+  {
+    "id": 31,
+    "name": "OnePlus Watch 2",
+    "price": 24999,
+    "category": "Smartwatch",
+    "brand": "OnePlus"
+  },
+  {
+    "id": 32,
+    "name": "Boat Storm Call",
+    "price": 2499,
+    "category": "Smartwatch",
+    "brand": "Boat"
+  },
+  {
+    "id": 33,
+    "name": "iPad 10th Generation",
+    "price": 34999,
+    "category": "Tablet",
+    "brand": "Apple"
+  },
+  {
+    "id": 34,
+    "name": "iPad Air M2",
+    "price": 59999,
+    "category": "Tablet",
+    "brand": "Apple"
+  },
+  {
+    "id": 35,
+    "name": "Samsung Galaxy Tab S9",
+    "price": 72999,
+    "category": "Tablet",
+    "brand": "Samsung"
+  },
+  {
+    "id": 36,
+    "name": "OnePlus Pad 2",
+    "price": 39999,
+    "category": "Tablet",
+    "brand": "OnePlus"
+  },
+  {
+    "id": 37,
+    "name": "Canon EOS 1500D",
+    "price": 45999,
+    "category": "Camera",
+    "brand": "Canon"
+  },
+  {
+    "id": 38,
+    "name": "Sony Alpha A6400",
+    "price": 74999,
+    "category": "Camera",
+    "brand": "Sony"
+  },
+  {
+    "id": 39,
+    "name": "Nikon Z50",
+    "price": 89999,
+    "category": "Camera",
+    "brand": "Nikon"
+  },
+  {
+    "id": 40,
+    "name": "GoPro Hero 13",
+    "price": 49999,
+    "category": "Camera",
+    "brand": "GoPro"
+  },
+  {
+    "id": 41,
+    "name": "Logitech MX Master 3S",
+    "price": 8999,
+    "category": "Mouse",
+    "brand": "Logitech"
+  },
+  {
+    "id": 42,
+    "name": "Logitech G502 Hero",
+    "price": 4999,
+    "category": "Mouse",
+    "brand": "Logitech"
+  },
+  {
+    "id": 43,
+    "name": "Razer DeathAdder V3",
+    "price": 6999,
+    "category": "Mouse",
+    "brand": "Razer"
+  },
+  {
+    "id": 44,
+    "name": "Keychron K2",
+    "price": 8999,
+    "category": "Keyboard",
+    "brand": "Keychron"
+  },
+  {
+    "id": 45,
+    "name": "Logitech K380",
+    "price": 2999,
+    "category": "Keyboard",
+    "brand": "Logitech"
+  },
+  {
+    "id": 46,
+    "name": "Samsung 27 inch Monitor",
+    "price": 18999,
+    "category": "Monitor",
+    "brand": "Samsung"
+  },
+  {
+    "id": 47,
+    "name": "LG UltraGear 24GQ",
+    "price": 16999,
+    "category": "Monitor",
+    "brand": "LG"
+  },
+  {
+    "id": 48,
+    "name": "Dell 24 inch Monitor",
+    "price": 12999,
+    "category": "Monitor",
+    "brand": "Dell"
+  },
+  {
+    "id": 49,
+    "name": "Amazon Echo Dot",
+    "price": 5499,
+    "category": "Smart Speaker",
+    "brand": "Amazon"
+  },
+  {
+    "id": 50,
+    "name": "Google Nest Mini",
+    "price": 4499,
+    "category": "Smart Speaker",
+    "brand": "Google"
+  }
+]
