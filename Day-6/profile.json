@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://i.pravatar.cc/150?img=1",
+    "userName": "Rahul Sharma",
+    "userBio": "Frontend developer who loves React and JavaScript.",
+    "buttonText": "View Profile"
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://i.pravatar.cc/150?img=2",
+    "userName": "Priya Singh",
+    "userBio": "UI designer creating simple and beautiful interfaces.",
+    "buttonText": "Show Profile"
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://i.pravatar.cc/150?img=3",
+    "userName": "Aman Verma",
+    "userBio": "Backend developer working with Node.js and MongoDB.",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://i.pravatar.cc/150?img=4",
+    "userName": "Sneha Gupta",
+    "userBio": "Full stack developer and technology enthusiast.",
+    "buttonText": "Visit Profile"
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://i.pravatar.cc/150?img=5",
+    "userName": "Arjun Mehta",
+    "userBio": "JavaScript developer learning React and TypeScript.",
+    "buttonText": "View Profile"
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://i.pravatar.cc/150?img=6",
+    "userName": "Neha Patel",
+    "userBio": "Software engineer who enjoys building web applications.",
+    "buttonText": "Show Profile"
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://i.pravatar.cc/150?img=7",
+    "userName": "Vikas Yadav",
+    "userBio": "MERN stack developer and open source contributor.",
+    "buttonText": "View Profile"
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://i.pravatar.cc/150?img=8",
+    "userName": "Anjali Verma",
+    "userBio": "Creative designer interested in UI and user experience.",
+    "buttonText": "Connect"
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://i.pravatar.cc/150?img=9",
+    "userName": "Rohit Kapoor",
+    "userBio": "React developer building modern web applications.",
+    "buttonText": "View Profile"
+  },
+  {
+    "id": 10,
+    "imageUrl": "https://i.pravatar.cc/150?img=10",
+    "userName": "Kavya Sharma",
+    "userBio": "Computer science student learning full stack development.",
+    "buttonText": "Show Profile"
+  },
+  {
+    "id": 11,
+    "imageUrl": "https://i.pravatar.cc/150?img=11",
+    "userName": "Aditya Joshi",
+    "userBio": "Problem solver and competitive programming enthusiast.",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 12,
+    "imageUrl": "https://i.pravatar.cc/150?img=12",
+    "userName": "Pooja Malhotra",
+    "userBio": "Frontend developer passionate about creating great user experiences.",
+    "buttonText": "Visit Profile"
+  },
+  {
+    "id": 13,
+    "imageUrl": "https://i.pravatar.cc/150?img=13",
+    "userName": "Karan Singh",
+    "userBio": "Node.js developer working on REST APIs and backend systems.",
+    "buttonText": "View Profile"
+  },
+  {
+    "id": 14,
+    "imageUrl": "https://i.pravatar.cc/150?img=14",
+    "userName": "Riya Agarwal",
+    "userBio": "Tech enthusiast exploring React, Next.js and modern web development.",
+    "buttonText": "Connect"
+  },
+  {
+    "id": 15,
+    "imageUrl": "https://i.pravatar.cc/150?img=15",
+    "userName": "Manish Kumar",
+    "userBio": "Full stack engineer who enjoys solving real-world problems.",
+    "buttonText": "View Profile"
+  }
+]
