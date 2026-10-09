@@ -2,6 +2,10 @@ import React, { useState } from "react";
 
 const App = () => {
   // let a = [10, 20];
+  // let b = a;
+  // b.push(40);
+  // console.log(a);
+
   // let b = [...a];
   // b.push(30);
   // console.log("After copy");
@@ -22,12 +26,29 @@ const App = () => {
     email: "",
     password: "",
     confirmPassword: "",
+    skills: [],
   });
 
   function handleChange(e) {
     // console.log(e.target);
 
     setUserData({ ...userData, [e.target.name]: e.target.value });
+  }
+
+  function handleSkill(e) {
+    // console.log(e.target.value);
+    if (e.target.checked) {
+      setUserData({
+        skills: [...userData.skills, e.target.value],
+      });
+    } else {
+      setUserData({
+        ...userData,
+        skills: userData.skills.filter((skill) => {
+          return skill !== e.target.value;
+        }),
+      });
+    }
   }
 
   // Method-1
@@ -72,6 +93,7 @@ const App = () => {
       email: "",
       password: "",
       confirmPassword: "",
+      skills: [],
     });
   }
   return (
@@ -86,10 +108,8 @@ const App = () => {
           name="name"
           required
         />
-
         <br />
         <br />
-
         <label htmlFor="">Email:</label>
         <input
           type="email"
@@ -100,7 +120,6 @@ const App = () => {
         />
         <br />
         <br />
-
         <label htmlFor="">Password:</label>
         <input
           type="password"
@@ -111,7 +130,6 @@ const App = () => {
         />
         <br />
         <br />
-
         <label htmlFor="">Confirm Password:</label>
         <input
           type="password"
@@ -122,13 +140,21 @@ const App = () => {
         />
         <br />
         <br />
-
+        <input type="checkbox" value="HTML" onChange={handleSkill} />
+        HTML
+        <input type="checkbox" value="CSS" onChange={handleSkill} />
+        CSS
+        <input type="checkbox" value="JS" onChange={handleSkill} />
+        JS
+        <br />
+        <br />
         <button>Submit</button>
       </form>
       <h1>Preview Section</h1>
       <h2>Name:{userData.name}</h2>
       <h2>Email:{userData.email}</h2>
       <h2>Password:{userData.password}</h2>
+      <h2>Skills: {userData.skills.join(",")}</h2>
     </div>
   );
 };
