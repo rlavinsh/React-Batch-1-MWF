@@ -166,3 +166,19 @@
   border: 2px solid black;
   background-color: #fee900;
 }
+
+.card {
+  width: 300px;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  font-weight: bold;
+}
+
+.parent {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}

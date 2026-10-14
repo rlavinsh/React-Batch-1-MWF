@@ -20,6 +20,10 @@ const Navbar = () => {
           <NavLink className="m-2" to="/contact">
             Contact
           </NavLink>
+
+          <NavLink className="m-2" to="/products">
+            Products
+          </NavLink>
           <button
             className="p-2 bg-gray-600 text-white rounded-xl"
             onClick={() => {
