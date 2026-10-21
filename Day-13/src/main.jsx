@@ -7,4 +7,10 @@ createRoot(document.getElementById("root")).render(
   <DataState>
     <App />
   </DataState>,
+
+  {
+    /* <Greet>
+  <h1>Hello</h1>
+</Greet> */
+  },
 );
